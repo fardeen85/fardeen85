@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Android,kotlin or any tech related stuff
-- 📫 How to reach me: ...linkedin -Fardeen Khan
+- 📫 How to reach me: ...linkedin (https://www.linkedin.com/in/fardeen-khan-7b4971202/)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I code more correctly when listning songs 😄
 
