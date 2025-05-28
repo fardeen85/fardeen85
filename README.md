@@ -5,15 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Software frontend and backend development
-- 🌱 I’m currently working on large scale projects
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about any tech related stuff
-- 📫 How to reach me: ...linkedin (https://www.linkedin.com/in/fardeen-khan-7b4971202/)
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I code more correctly when listning songs 😄
+🔭 Currently working as a Senior Android Developer, building high-performance, scalable mobile applications.
+🌱 Working on large-scale, real-world projects that impact thousands of users.
+👯 Open to collaborating on all kinds of open-source projects — let’s build something meaningful together!
+🤝 Looking for mentorship and contributions in areas like Kotlin Multiplatform, Jetpack Compose, and Clean Architecture.
+💬 Ask me anything tech-related — I love sharing knowledge and discussing new ideas.
+📫 How to reach me: ...linkedin (https://www.linkedin.com/in/fardeen-khan-7b4971202/)
+😄 Pronouns: He/Him
+⚡ Fun fact: I write cleaner code when I’m listening to music 🎶😄
 
-<img src = [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fardeen85)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fardeen85)](https://github.com/anuraghazra/github-readme-stats)
 
 
